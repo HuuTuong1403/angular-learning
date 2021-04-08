@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-learn-ec750"
+  },
+  "targets": {
+    "angular-learn-ec750": {
+      "hosting": {
+        "angular-shopping": [
+          "angular-learn-ec750"
+        ]
+      }
+    }
+  }
+}
